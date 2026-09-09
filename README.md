@@ -1,6 +1,6 @@
 # Codyssey_B1-2
 ## 1. 스토리보드(기획) 문서
-
+[스토리보드](https://github.com/hissuuummin/B1-2/blob/main/patagonia_storyboard_plan.pdf)
 
 
 ## 2. 광고 영상 파일
